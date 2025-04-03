@@ -24,9 +24,9 @@ I have completed various projects using PHP to create dynamic web applications.
 ## Experience
 I have been involved in many projects, including:
 
-Web applications
-API development
-Database management
+#### Web applications
+#### API development
+#### Database management
 
 ## Contact
 Feel free to reach out to me for more information about my projects and collaboration opportunities.
