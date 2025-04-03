@@ -1,9 +1,9 @@
 ---
 layout: main/index.html
-title: TWCARTY
-description: Eleventy starter for photographer/artist
+title: A. Mertoğlu — xqw
+description: My personal site.
 keyword: photography, camera, blog
-author: John Doe
+author: A. Mertoğlu
 cover: /asset/index/cover.webp
 profile: /asset/index/profile.webp
 permalink: /index.html
