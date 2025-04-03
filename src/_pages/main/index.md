@@ -9,10 +9,28 @@ profile: /asset/index/profile.webp
 permalink: /index.html
 ---
 
-#### Hello World
-I used Eleventy to create this website because I find it the easiest Static Site Generator (SSG) to understand, especially with its support for using `*.html` for layout. I chose DaisyUI as the CSS framework because its simple tutorials matched my level as a beginner. 
+I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript, and PHP.
 
-#### Eleventy
-Eleventy is a popular Static Site Generator (SSG) tool used by web developers to build websites. It allows developers to create websites from various template languages, including HTML, Markdown, and others. Eleventy is known for its simplicity and flexibility, making it a favorite among developers who prefer a straightforward approach to building static websites.
+#### Areas of Expertise
+# Python
+I have developed projects in data analysis, machine learning, and web development.
 
-I apologize for any shortcomings as I am not a coder by background. The source code of this starter is available on [GitHub](https://github.com/sira313/twcarty). Thanks for coming.
+# JavaScript
+I actively use it for frontend and backend development, with experience in React and Node.js.
+
+# PHP
+I have completed various projects using PHP to create dynamic web applications.
+
+#### Experience
+I have been involved in many projects, including:
+
+Web applications
+API development
+Database management
+
+#### Contact
+Feel free to reach out to me for more information about my projects and collaboration opportunities.
+
+[Twitter] {https://twitter.com/amertoglu16}
+[Contact me]
+{mailto:abdullah.mertoglu99@gmail.com}
