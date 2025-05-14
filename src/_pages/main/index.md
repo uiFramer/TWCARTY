@@ -9,7 +9,7 @@ profile: /asset/index/profile.webp
 permalink: /index.html
 ---
 
-#### Hi 👋
+#### Bio 👋
 → Web developer / designer
 
 ## Areas of Expertise 🔥
