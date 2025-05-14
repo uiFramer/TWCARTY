@@ -10,6 +10,7 @@
 /* Ini berlaku untuk semua browser */
 body {
   scroll-padding-top: 5rem;
+  background-color: #f0f0ff;
 }
 
 /* CSS khusus untuk Firefox */
