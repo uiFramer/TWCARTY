@@ -1,9 +1,9 @@
 ---
 layout: main/index.html
-title: A. Mertoğlu — xqw
+title: devBlackCat
 description: My personal site.
 keyword: photography, camera, blog
-author: A. Mertoğlu
+author: devBlackCat
 cover: /asset/index/cover.webp
 profile: /asset/index/profile.webp
 permalink: /index.html
@@ -33,6 +33,6 @@ Feel free to reach out to me for more information about my projects and collabor
 
 <a target='_blank' href='https://github.com/uiframer'>Github</a>
 <br/>
-<a target='_blank' href='https://twitter.com/amertoglu16'>Twitter</a>
+<a target='_blank' href='https://x.com/devblackcat'>X</a>
 <br/>
-<a target='_blank' href='mailto:abdullah.mertoglu99@gmail.com'>Contact me</a>
+<a href='mailto:devblackcat@yahoo.com'>Send me</a>
