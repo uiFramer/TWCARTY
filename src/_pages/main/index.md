@@ -9,10 +9,10 @@ profile: /asset/index/profile.webp
 permalink: /index.html
 ---
 
-#### Bio
+## Bio 👋
 → Web developer / designer
 
-## Areas of Expertise
+## Areas of Expertise 🔥
 #### Python
 I have developed projects in data analysis, machine learning and web development.
 
@@ -22,14 +22,14 @@ I actively use it for frontend and backend development, with experience in React
 #### PHP
 I have completed various projects using PHP to create dynamic web applications.
 
-## Experience
+## Experience 🎮
 I have been involved in many projects, including:
 
 - Web applications
 - API development
 - Database management
 
-## Contact
+## Contact ✍️
 Feel free to reach out to me for more information about my projects and collaboration opportunities.
 
 <a target='_blank' href='https://github.com/uiframer'>Github</a>
