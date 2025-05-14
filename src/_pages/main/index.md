@@ -9,7 +9,6 @@ profile: /asset/index/profile.webp
 permalink: /index.html
 ---
 
-#### Bio 👋
 → Web developer / designer
 
 ## Areas of Expertise 🔥
