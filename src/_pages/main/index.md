@@ -9,8 +9,7 @@ profile: /asset/index/profile.webp
 permalink: /index.html
 ---
 
-→ Web developer / designer<br/>
-🔥 Made with Github & Netlify.
+→ Web developer / designer
 
 ## Areas of Expertise
 #### Python
