@@ -9,10 +9,9 @@ profile: /asset/index/profile.webp
 permalink: /index.html
 ---
 
+Web developer / designer
 🇹🇷 Türkiye <br/>
 🎉 Joined on March 2025
-
-I'm a software engineer with extensive experience in software development. I specialize in Python, Javascript and PHP.
 
 ## Areas of Expertise
 #### Python
