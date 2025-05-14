@@ -9,7 +9,7 @@ profile: /asset/index/profile.webp
 permalink: /index.html
 ---
 
-Web developer / designer
+Web developer / designer <br/>
 🇹🇷 Türkiye <br/>
 🎉 Joined on March 2025
 
