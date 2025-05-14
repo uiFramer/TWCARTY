@@ -10,8 +10,7 @@ permalink: /index.html
 ---
 
 Web developer / designer <br/>
-🔥 Made with Netlify <br/>
-🎉 Joined on March 2025 
+🔥 Made with Netlify
 
 ## Areas of Expertise
 #### Python
