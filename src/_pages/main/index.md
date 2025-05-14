@@ -10,8 +10,8 @@ permalink: /index.html
 ---
 
 Web developer / designer <br/>
-🇹🇷 Türkiye <br/>
-🎉 Joined on March 2025
+🔥 Made with Netlify <br/>
+🎉 Joined on March 2025 
 
 ## Areas of Expertise
 #### Python
