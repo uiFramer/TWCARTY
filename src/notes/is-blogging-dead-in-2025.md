@@ -7,7 +7,7 @@ date: 2025-05-12
 tags:
     - Blogging
 ---
-As we step into 2025, I find myself reflecting on the evolution of blogging and wondering whether it's still a relevant form of expression and communication. Once upon a time, I was captivated by the blogging wave that swept across the internet, fostering a sense of community and giving everyone a voice. It was a space where thoughts, experiences, and expertise could be shared without the constraints of traditional media.
+DSAs we step into 2025, I find myself reflecting on the evolution of blogging and wondering whether it's still a relevant form of expression and communication. Once upon a time, I was captivated by the blogging wave that swept across the internet, fostering a sense of community and giving everyone a voice. It was a space where thoughts, experiences, and expertise could be shared without the constraints of traditional media.
 
 But now, with the rise of numerous platforms like TikTok, Instagram, and even podcasting, I can't help but question the role and necessity of blogging in this fast-paced digital landscape. Are blogs becoming an outdated medium, or do they still hold value?
 
