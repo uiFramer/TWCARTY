@@ -1,4 +1,5 @@
 ---
+layout: main/post-blog.html
 title: Bookmarks  
 description: My bookmarks. 
 keywords: Bookmarks, Websites  
