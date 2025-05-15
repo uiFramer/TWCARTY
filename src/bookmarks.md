@@ -1,6 +1,6 @@
 <div style="font-family:Arial, sans-serif;padding:10px">
 <h1>/bookmarks</h1>
-<a style="font-size:14px;color:#c0c0c0;text-decoration:none" href="/">@devblackcat</a>
+<a style="font-size:14px;color:#c0c0c0;text-decoration:none" href="/">Update: 15/05/2025</a>
 <br/>
 <br/>
 
