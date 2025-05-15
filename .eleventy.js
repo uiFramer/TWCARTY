@@ -30,9 +30,9 @@ module.exports = function(eleventyConfig) {
 
   // Custom collection
   const collectionConfigs = [
-    { name: "posts", glob: "src/blog/**/*.md" },
+    { name: "notes", glob: "src/notes/**/*.md" },
     { name: "photos", glob: "src/photos/**/*.md" },
-    { name: "recentPosts", glob: "src/blog/*.md", limit: 3 },
+    { name: "recentPosts", glob: "src/notes/*.md", limit: 3 },
     { name: "recentPhotos", glob: "src/photos/*.md", limit: 6 }
   ];
 
@@ -68,7 +68,7 @@ module.exports = function(eleventyConfig) {
   
   /**
    * Get tag from collection
-   * @param {'blog'|'photos'} type - Collection type (blog or photos)
+   * @param {'notes'|'photos'} type - Collection type (blog or photos)
    * @returns {Array} - Array uniq tags
    */
   function getTags(type) {
