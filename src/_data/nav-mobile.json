@@ -1,12 +1,12 @@
 {
   "items": [
     { 
-      "name": "Photos", 
-      "url": "/photos" 
+      "name": "Bookmarks", 
+      "url": "/bookmarks" 
     },
     { 
-      "name": "Blog", 
-      "url": "/blog" 
+      "name": "Notes", 
+      "url": "/notes" 
     }
   ]
 }
