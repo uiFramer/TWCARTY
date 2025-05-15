@@ -1,10 +1,3 @@
----
-title: Bookmarks
-description: My bookmarks.
-keywords: Bookmarks, Websites.
-date: 2024-05-02
----
-
 <div style="font-family:Arial, sans-serif;padding:10px">
 <h1>Bookmarks <a style="font-size:14px;color:#D3D3D3;text-decoration:none" href="/">15/05/2025</a></h1>
 <br/>
